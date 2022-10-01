@@ -15,11 +15,11 @@
 
 ## Figma Design 
 - ### Home page
-![Alt text](/images/figma0.png)
+![Alt text](figma0.png)
 - ### Fundraiser page
-![Alt text](/images/figma1.png)
+![Alt text](figma1.png)
 - ### Sign In page
-![Alt text](/images/figma2.png)
+![Alt text](figma2.png)
 
 # Note
 ## The design is not final, changes are expected to be made.
