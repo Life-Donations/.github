@@ -1,4 +1,5 @@
-**Title**** :** lifeDonations
+
+**Title:** lifeDonations
 
 **Description:** Your place to start a fundraiser or make an online donation for helping people, businesses, environment and other...
 
@@ -24,25 +25,26 @@ lifeDonations, Inc is a Albanian nonprofit website which was created in 2022 by 
 
 **Installation**
 
-Installation is done easily by using the docker file which automatically installs node\_modules and other dependencies. // This needs to change
+No need to install anything, just enter 51.138.44.16 on your browser search bar and that's it.
 
 **Getting Started**
 
 Go to the Sign In page by clicking the Sign In button which you can see on the top right of the page. To start using our website you should sign up first. Click on the "Sign Up" link and Sign Up page will be shown. Enter your credentials like the example below and click on the Submit button.
 
-![](RackMultipart20221017-1-b9i347_html_be96e91821ae4c43.png)
+![Alt text](sign_up.png)
 
-If you've already signed up, go to the Sign In page by clicking the Sign In button and enter your credentials. Click on the submit button. ![](RackMultipart20221017-1-b9i347_html_b9eb622a6c474785.png)
+If you've already signed up, go to the Sign In page by clicking the Sign In button and enter your credentials. Click on the submit button. 
+![Alt text](sign_in.png)
 
-Now, to see current fundraisers click on the Fundraisers link which is located in the navigation bar. You will see a similar page like the one below. ![](RackMultipart20221017-1-b9i347_html_f0738fa71ff07c32.png)
+Now, to see current fundraisers click on the Fundraisers link which is located in the navigation bar. You will see a similar page like the one below. 
+![Alt text](fundraisers.png)
 
 If you want to donate to any of these fundraisers click on the View Fundraiser button. It redirects you to the donate page. Give the value you want to donate and write a message. Click on submit button. See the example below.
-
-![](RackMultipart20221017-1-b9i347_html_4d685f4943ed566b.png)
+![Alt text]donate.png)
 
 **Pages**
 
-lifeDonations consisst of these pages:
+lifeDonations consist of these pages:
 
 - **Sign Up Page**
 
@@ -92,7 +94,7 @@ In Contact Page after filling the form, you can contact our Team. An email will 
 
 When user clicks on the Search bar, he will be redirected to Search Page, where an input is displayed. As the user starts typing for what he wants to search, fundraisers will be filtered and only those fundraisers whose title contains what user typed in the input, will be displayed on the page. If no fundraiser exists for that search user will be informed.
 
-**Documentation of Code** // This needs to change
+**Documentation of Code**
 
 Code was written in C# using ASP .NET web API.
 
