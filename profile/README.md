@@ -1,9 +1,9 @@
 
-**Title:** lifeDonations
+**Title:** LifeDonations
 
-**Description:** Your place to start a fundraiser or make an online donation for helping people, businesses, environment and other...
+**Description:** Your place to start a fundraiser or make an online donation for helping people, businesses, environment and other.
 
-**Our Moto:**"No one has never become poor from giving"
+**Our Moto:**"No one has never become poor from giving."
 
 **Main Features**
 
@@ -19,9 +19,9 @@ Donate or create fundraisers easily and make **our world** a better place.
 
 Prove that you're not a robot by proving **your humanity**.
 
-**About lifeDonations**
+**About LifeDonations**
 
-lifeDonations, Inc is a Albanian nonprofit website which was created in 2022 by Arbrore Halilaj, Dardan Prenaj, Jeton Sllamniku and Jusuf Hulaj. lifeDonatons, Inc is headquartered in Kosovo.
+LifeDonations is an Albanian nonprofit website which was created in 2022 by Arbrore Halilaj, Dardan Prenaj, Jeton Sllamniku and Jusuf Hulaj. LifeDonatons is headquartered in Kosovo.
 
 **Installation**
 
@@ -44,7 +44,7 @@ If you want to donate to any of these fundraisers click on the View Fundraiser b
 
 **Pages**
 
-lifeDonations consist of these pages:
+LifeDonations consist of these pages:
 
 - **Sign Up Page**
 
@@ -84,7 +84,7 @@ In Fundraisers Page you can see the latest Fundraisers that are active. You are 
 
 - **About Page**
 
-In About Page you can see information about what is "lifeDonations", and history and more.
+In About Page you can see information about what is "LifeDonations", and history and more.
 
 - **Contact Page**
 
